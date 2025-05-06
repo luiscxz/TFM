@@ -8,11 +8,11 @@ El objetivo principal fue desarrollar un sistema de predicción de ventas para 4
 
 ## 📁 Estructura del Repositorio
 
-- `0. Data SQL/` – Scripts y consultas para extracción de datos desde bases de datos SQL.
+- `0. Data SQL/` – Base de datos original y procesada.
 - `1. Cuadernos/` – Notebooks Jupyter con el desarrollo del análisis, modelado y experimentación.
-- `2. Datos en CSV/` – Archivos CSV utilizados en el proyecto (datos en crudo o transformados).
+- `2. Datos en CSV/` – Archivos CSV extraidos de la base de datos para entrenar los modelos.
 - `3. Memoria/` – Documentación escrita del proyecto (memoria técnica y explicativa).
-- `4. Modelo/` – Archivos del modelo entrenado y scripts relacionados con su uso.
+- `4. Modelo/` – Modelo entrenado.
 - `5. Power BI/` – Informes y visualizaciones desarrolladas en Power BI.
 - `Indice.pdf` – Índice general del proyecto.
 - `Instrucciones.pdf` – Guía de uso o ejecución del contenido del repositorio.
